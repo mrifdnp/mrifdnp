@@ -27,7 +27,7 @@
 <p style="padding:10px;"> 
    <a href="https://laravel.com/" target="_blank"> <img src="https://laravel.com/img/logomark.min.svg" width="75" /> </a>
     <a style="padding:15px;" href="https://react.dev/" target="_blank"> <img src="https://img.icons8.com/?size=80&id=asWSSTBrDlTW&format=png"/> </a>
-    <a style="padding:15px;" href="https://tailwindcss.com/" target="_blank"> <img src="https://img.icons8.com/?size=100&id=x7XMNGh2vdqA&format=png&color=000000"/> </a>
+    <a style="padding:15px;" href="https://tailwindcss.com/" target="_blank"> <img src="https://img.icons8.com/?size=100&id=x7XMNGh2vdqA&format=png&color=000000" width = "90"/> </a>
 </p>
 
 ### 🔹Mobile Development:ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
