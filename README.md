@@ -1,4 +1,8 @@
 
+# 👋 Hello World 🌍, I am Rifqi Dani Putranto
+ 👀 I’m interested in learning web technologies and enjoy exploring everything about data </br>
+ 🔥 I’m currently learning about web technology for web development and software engineer
+
 <div style=" font-size: medium; color: #447ff7" align=center>
 
 <p  align="center">
