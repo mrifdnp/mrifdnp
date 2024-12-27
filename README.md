@@ -1,4 +1,10 @@
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mrifdnp/mrifdnp/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mrifdnp/mrifdnp/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mrifdnp/mrifdnp/output/github-contribution-grid-snake.svg">
+</picture>
+
 # 👋 Hello World 🌍, I am Rifqi Dani Putranto
  👀 I’m interested in learning web technologies and enjoy exploring everything about data </br>
  🔥 I’m currently learning about web technology for web development and software engineer
