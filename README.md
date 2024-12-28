@@ -1,3 +1,4 @@
+![snake gif](https://github.com/mrifdnp/mrifdnp/blob/output/github-snake-dark.svg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mrifdnp/mrifdnp/output/github-contribution-grid-snake-dark.svg">
