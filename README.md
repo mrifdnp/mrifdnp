@@ -24,3 +24,10 @@
 <p align="left"> <a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" height="40" alt="Git"/></a>&nbsp; <a href="https://github.com/" target="_blank"><img src="https://img.icons8.com/?size=100&id=52539&format=png&color=000000" height="40" alt="GitHub"/></a>&nbsp; <a href="https://vercel.com/" target="_blank"><img src="https://img.icons8.com/?size=100&id=ZRk5v4XPLsfj&format=png&color=000000" height="40" alt="Vercel"/></a>&nbsp; <a href="https://firebase.google.com/" target="_blank"><img src="https://img.icons8.com/?size=100&id=62377&format=png&color=000000" height="40" alt="Firebase"/></a> </p>
 🧪 Others
 <p align="left"> <a href="https://nodejs.org/" target="_blank"><img src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" height="40" alt="Node.js"/></a>&nbsp; <a href="https://expressjs.com/" target="_blank"><img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" height="40" alt="Express.js"/></a>&nbsp; <a href="https://vitejs.dev/" target="_blank"><img src="https://vitejs.dev/logo.svg" height="40" alt="Vite"/></a>&nbsp; <a href="https://www.figma.com/" target="_blank"><img src="https://img.icons8.com/?size=100&id=fn7jjN0Lg3RQ&format=png&color=000000" height="40" alt="Figma"/></a> </p>
+
+ 
+![](https://github-readme-stats.vercel.app/api?username=mrifdnp&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=false)<br/>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=mrifdnp&theme=shades-of-purple&hide_border=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrifdnp&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
